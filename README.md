@@ -5,7 +5,7 @@ It’s designed like **WhatsApp for students**, but instead of regular contacts,
 
 ## AIT – AI Teacher OverView
 <p align="center">  
-  <img src="assets/app_preview.jpg" alt="AIT AI Teacher Screenshot" width="350"/>  
+  <img src="assets/app_preview.jpg" alt="AIT AI Teacher Screenshot" width="500" height="500"/>  
 </p>  
 
 ---
